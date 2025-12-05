@@ -40,7 +40,7 @@ mysql -u root -p < database/queries.sql
 3. Adjust loan durations in the schema
 4. Add new tables or columns as needed
 
-## 🗂 Database Schema Overview
+## Database Schema Overview
 
 - **books**: Book catalog with availability tracking
 - **members**: Library members with status management
